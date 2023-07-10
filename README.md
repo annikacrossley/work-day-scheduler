@@ -22,4 +22,4 @@
   THEN the saved events persist</li>
 </ul>
 
-<img src="" alt="live work day scheduler screenshot"
+<img src="live-webpage.png" alt="live work day scheduler screenshot">
